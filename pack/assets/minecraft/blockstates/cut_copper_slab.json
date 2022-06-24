@@ -4,7 +4,7 @@
       "model": "block/copper_slab"
     },
     "type=double": {
-      "model": "block/podzol"
+      "model": "block/podzols"
     },
     "type=top": {
       "model": "block/copper_slab"

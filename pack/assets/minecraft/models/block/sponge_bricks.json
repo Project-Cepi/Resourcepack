@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/podzol"
+        "all": "blocks/sponge_bricks"
     }
 }
